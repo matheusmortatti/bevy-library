@@ -362,6 +362,13 @@ dependencies = [
 name = "bevy-library"
 version = "0.1.0"
 dependencies = [
+ "bevy-movement",
+]
+
+[[package]]
+name = "bevy-movement"
+version = "0.1.0"
+dependencies = [
  "bevy",
 ]
 

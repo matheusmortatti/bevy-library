@@ -1,5 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml">
+      <package file="$PROJECT_DIR$">
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c582915-3571-46e8-8e8b-b9c83f72adb2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/bevy-library.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:test" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="QS7gOhnT" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.1572327211607975E-74" />
+      <entry key="S2" value="3.279859017382646E-19" />
+      <entry key="S5" value="4.039764037097452E-8" />
+      <entry key="S10" value="2.0322286651578924E-4" />
+      <entry key="S30" value="0.1045068310790015" />
+      <entry key="S60" value="0.836656725738705" />
+      <entry key="M2" value="2.6623159630779325" />
+      <entry key="M5" value="5.4948331060655295" />
+      <entry key="M10" value="7.027238707794507" />
+      <entry key="M15" value="7.690093191800733" />
+      <entry key="M30" value="10.669094024770136" />
+      <entry key="H1" value="23.515689844943207" />
+      <entry key="H2" value="46.01087014609349" />
+      <entry key="H4" value="67.71976434412842" />
+      <entry key="D1" value="95.14569239331146" />
+      <entry key="W1" value="100.98853097683168" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000000000053" />
+      <entry key="S10" value="1.0000000730824379" />
+      <entry key="S30" value="1.0041809118266878" />
+      <entry key="S60" value="1.0646599708218916" />
+      <entry key="M2" value="1.2542832491964258" />
+      <entry key="M5" value="1.5782652607056318" />
+      <entry key="M10" value="1.7605623155309211" />
+      <entry key="M15" value="1.8376520380475676" />
+      <entry key="M30" value="2.0774582479490276" />
+      <entry key="H1" value="2.949251592603633" />
+      <entry key="H2" value="4.419270195252223" />
+      <entry key="H4" value="5.816263311561801" />
+      <entry key="D1" value="7.564996360166212" />
+      <entry key="W1" value="7.935851850032173" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.6284468850545834E-7" />
+      <entry key="MS500" value="0.0438889023668124" />
+      <entry key="S2" value="0.45770818614810366" />
+      <entry key="S5" value="0.7315356292774802" />
+      <entry key="S10" value="0.8554382310610794" />
+      <entry key="S30" value="1.0488817256032876" />
+      <entry key="S60" value="1.8462063463336127" />
+      <entry key="M2" value="3.8608907786436233" />
+      <entry key="M5" value="7.0340257105216795" />
+      <entry key="M10" value="8.763790078882469" />
+      <entry key="M15" value="9.510530894482219" />
+      <entry key="M30" value="12.736623326649143" />
+      <entry key="H1" value="26.458014640752545" />
+      <entry key="H2" value="50.42505860298173" />
+      <entry key="H4" value="73.53271976447961" />
+      <entry key="D1" value="102.70997741962388" />
+      <entry key="W1" value="108.9242763585438" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3FprZgB9XeN9sNyNqhZJIb4ccxR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects": "true",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="Test" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="command" value="test --package bevy-library --lib tests" />
@@ -34,5 +155,22 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="/usr/bin" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c582915-3571-46e8-8e8b-b9c83f72adb2" name="Changes" comment="" />
+      <created>1782782908222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782782908222</updated>
+      <workItem from="1782782909225" duration="2802000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
